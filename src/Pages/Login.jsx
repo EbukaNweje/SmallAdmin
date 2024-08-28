@@ -135,7 +135,7 @@ const Login = () => {
                         </div>
                         <div className="w-full text-center">
                             <p className="text-sm">
-                                © Copyright 2024 Thebitpaynexus All Rights
+                                © Copyright 2024 Bitminers-Coinstarpro All Rights
                                 Reserved.
                             </p>
                         </div>
